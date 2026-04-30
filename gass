@@ -4158,26 +4158,25 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd
 
 <=============Christian Channels==================>
 
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/300/150/png-transparent-psalms-praise-contemporary-worship-music-worship-miscellaneous-text-hand.png" group-title="Christian Channels",Praise
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3888)/index.m3u8
 
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="" tvg-logo="https://reformed21.tv/images/logo.png" group-title="Christian Channels",Reformed 21
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch365)/index.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33b71e0fd4e74614b55c5e4399e2eb9c:f5bae0f7ea037e59a8b2a7851954ecbe
+#EXTINF:-1 tvg-id="EWTN.id" tvg-name="EWTN.id" tvg-logo="https://mimipipi22.github.io/logo/religion/ewtn.jpg" group-title="Christian Channels",EWTN
+https://atemecdnbalancer-voe.sysln.id/live/eds/EWTN/mediampd/EWTN.mpd
 
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="" tvg-logo="https://static1.squarespace.com/static/5a1104fac027d8fee92f7bd7/t/5a2022fe71c10b67866cceeb/1512055556782/logo.png?format=1500w" group-title="Christian Channels",Shine
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3900)/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e59e1e60b92407c972178c7959ec340:cdfcef62ac2b749f3e0d95c135647bac
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="Kairos" tvg-name="Kairos" tvg-logo="https://mimipipi22.github.io/logo/religion/kairos.jpg" group-title="Christian Channels",KAIROS
+https://atemecdnbalancer-voe.sysln.id/live/eds/Kairos/mediampd/Kairos.mpd
 
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="" tvg-logo="https://franciscanmissionaries.com/wp-content/uploads/2017/10/EWTN-Logo-White.png" group-title="Christian Channels",EWTN
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch299)/index.m3u8
 
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="" tvg-logo="" group-title="Christian Channels",Light
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3922)/index.m3u8
-
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/TBN_Crest.png/revision/latest?cb=20140808220107" group-title="Christian Channels",TBN Asia
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch61)/index.m3u8
-
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="" tvg-logo="https://www.firstmedia.com/files/logos/channels/5-FAITH/Kairos%20SD-FirstMedia-Chl-23.jpg" group-title="Christian Channels",Kairos
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch23)/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d412681b35e04498a2f9c4abdf327902:0da82dde987976fa3b3bc14943ef2fae
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="Reformed 21.id" tvg-name="Reformed 21.id" tvg-logo="https://mimipipi22.github.io/logo/religion/reformed21.jpg" group-title="Christian Channels",REFORMED 21
+https://atemecdnbalancer-voe.sysln.id/live/eds/Reformed21HD/mediampd/Reformed21HD.mpd
 
 
 <=========================================== Malaysia ==========================================>

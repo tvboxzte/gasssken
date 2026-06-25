@@ -216,13 +216,7 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8|referer=https://klik.tvri.go.id/&user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
 
-#EXTINF:-1  group-title="PIALA DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png", RTB Aneka
-#EXTVLCOPT:network-caching=1000
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
-#EXTINF:-1 group-title="PIALA DUNIA"  tvg-logo="https://i.imgur.com/CGlzsD5.png", RTB Go Live
-#EXTVLCOPT:network-caching=1000
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
@@ -233,6 +227,46 @@ http://103.148.44.38:8000/play/a05u/index.m3u8
 
 
 
+
+
+#EXTINF:-1  group-title="PIALA DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png", RTB Aneka
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+
+#EXTINF:-1 group-title="PIALA DUNIA"  tvg-logo="https://i.imgur.com/CGlzsD5.png", RTB Go Live
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+#EXTINF:-1 group-title="PIALA DUNIA",PTV SPORTS FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/498.ts
+#EXTINF:-1 group-title="PIALA DUNIA",FIFA WORLDCUP  eng
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1306.ts
+#EXTINF:-1 group-title="PIALA DUNIA",FIFA WORLDCUP bbc
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/4958.ts
+#EXTINF:-1 group-title="PIALA DUNIA",FIFA WORLDCUP itv
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/501.ts
+#EXTINF:-1 group-title="PIALA DUNIA",FIFA WORLDCUP hindi
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/5008.ts
+#EXTINF:-1 group-title="PIALA DUNIA",FIFA WORLDCUP unite8
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1064.ts
+#EXTINF:-1 group-title="PIALA DUNIA",FIFA WORLDCUP german
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1582.ts
+#EXTINF:-1 group-title="PIALA DUNIA",FIFA WORLDCUP german
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2572.ts
+#EXTINF:-1 group-title="PIALA DUNIA",FIFA WORLDCUP spanish
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6659.ts
+#EXTINF:-1 group-title="PIALA DUNIA",FIFA WORLDCUP portu
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1423.ts
+#EXTINF:-1 group-title="PIALA DUNIA",FIFA WORLDCUP fox
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1140.ts
+#EXTINF:-1 group-title="PIALA DUNIA",TSN 4 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6654.ts
+#EXTINF:-1 group-title="PIALA DUNIA",TSN 3 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6653.ts
+#EXTINF:-1 group-title="PIALA DUNIA",TSN 2 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6652.ts
+#EXTINF:-1 group-title="PIALA DUNIA",TSN 1 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6650.ts
 
 
 

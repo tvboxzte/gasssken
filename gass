@@ -217,10 +217,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8|referer=ht
 
 
 
-
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="PIALA DUNIA" tvg-logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg" group-title="TVRI SPORTS",TVRI SPORT
+#EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="PIALA DUNIA" tvg-logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg" group-title="TVRI SPORTS",TVRI SPORT+
 #EXTM3U
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS

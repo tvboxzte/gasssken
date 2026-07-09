@@ -220,8 +220,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8|referer=ht
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="PIALA DUNIA" tvg-logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg" group-title="TVRI SPORTS",TVRI SPORT+
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship10.m3u8
-https://raw.githubusercontent.com/tvboxzte/gasssken/refs/heads/main/test
-
+https://gvisiontv.channell.my.id/event/event4/tvrisp.m3u8
 
 
 

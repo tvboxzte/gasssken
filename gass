@@ -178,6 +178,11 @@ https://raw.githubusercontent.com/B-inal-123/ligabola-s/inal-22/championship10.m
 https://gvisiontv.channell.my.id/event/event4/tvrisp.m3u8
 
 
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="PIALA DUNIA" tvg-logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg" group-title="TVRI SPORTS",TVRI SPORT
+http://157.15.187.3:25092/hls/49/49.m3u8
+
 
 
 #EXTINF:-1  group-title="PIALA DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png", RTB Aneka

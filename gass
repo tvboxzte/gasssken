@@ -55,7 +55,16 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/in
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://tvratu.my.id/vid/index.mpd?id=205&type=dash
+https://tvratu.my.id/vid/index.mpd?id=205&type=dash\
+
+
+
+
+
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL4fRL6x9poEVU3020u62P9wK6AozOArSmUA&s" group-title="Nasional"
+#EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="@EMTEK", INDOSIAR 1
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/indosiarTV.m3u8
+
 
 #EXTINF:-1 group-title="Nasional" tvg-name="INEWS" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo/refs/heads/queen/inews.png", INEWS
 #EXTVLCOPT:http-user-agent=android-R+

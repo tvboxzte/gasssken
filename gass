@@ -351,10 +351,10 @@ https://dickgital.semar26.xyz/fetch?id=trans7.m3u8&auth=transsemar25
 https://dickgital.semar26.xyz/fetch?id=transtv.m3u8&auth=transsemar25
 
 #EXTINF:-1 group-title="📺 Nasional" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/TRANS%20TV.png",TRANS TV
-https://transgroup.iontv.workers.dev/transtv.m3u8
+https://transweb-cen.slow-panda926.workers.dev/index.m3u8?id=transtv
 
 #EXTINF:-1 group-title="📺 Nasional" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/TRANS%207.png",TRANS 7
-https://transgroup.iontv.workers.dev/trans7.m3u8
+https://transweb-cen.slow-panda926.workers.dev/index.m3u8?id=trans7
 
 
 

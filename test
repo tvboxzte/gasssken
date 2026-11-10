@@ -1,6 +1,147 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" group-title="🔴RYTNASIONAL" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/yn67Cj9y/KOMPAS.png" ,KOMPAS TV
+http://royaltv.world:25461/live/S1048/9886/110.ts
+#EXTINF:-1 group-title="🔴RYTNASIONAL" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/Dfjt4MKN/INEWS.png",INEWS
+http://royaltv.world:25461/live/S1048/9886/99.ts
+#EXTINF:-1 tvg-id="RCTI [1].id" tvg-logo="https://i.ibb.co.com/8LSDx2WG/RCTI.png" group-title="🔴RYTNASIONAL",RCTI
+http://royaltv.world:25461/live/S1048/9886/100.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="🔴RYTNASIONAL",SCTV HD
+http://royaltv.world:25461/live/S1048/9886/101.ts
+#EXTINF:-1 tvg-id="TransTV-6" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/C5VjfGVQ/TRANSTV.png" group-title="🔴RYTNASIONAL",TRANSTV HD
+http://royaltv.world:25461/live/S1048/9886/102.ts
+#EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/fV6VG0Vt/TRANS7.png" group-title="🔴RYTNASIONAL",TRANS7 HD
+http://royaltv.world:25461/live/S1048/9886/103.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkVjq2ZN/INDOSIAR.png" group-title="🔴RYTNASIONAL", INDOSIAR HD
+http://royaltv.world:25461/live/S1048/9886/105.ts
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/1GWCbMRs/ANTV.png" group-title="🔴RYTNASIONAL" tvg-id="ANTV",  ANTV
+http://royaltv.world:25461/live/S1048/9886/106.ts
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="🔴RYTNASIONAL" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/7t2mbspy/TVONE.png",TV ONE
+http://royaltv.world:25461/live/S1048/9886/107.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qSMBW0D/METROTV.png" group-title="🔴RYTNASIONAL",METRO TV
+http://royaltv.world:25461/live/S1048/9886/108.ts
+#EXTINF:0 tvg-id="GTV HD [3].id" tvg-logo="https://i.ibb.co.com/39DJnjwt/GTV.png" group-title="🔴RYTNASIONAL", GTV
+http://royaltv.world:25461/live/S1048/9886/109.ts
+#EXTINF:-1 group-title="🔴RYTNASIONAL" tvg-logo="https://docdog.top/logo/countries/indonesia/spotv.png" tvg-name="IDS: SPOTV VIP" ,IDS: SPOTV VIP
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34406
+#EXTINF:-1 group-title="🔴RYTNASIONAL" tvg-logo="https://docdog.top/logo/countries/indonesia/spotv.png" tvg-name="IDS: SPOTV 2 VIP" ,IDS: SPOTV 2 VIP
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34405
+#EXTINF:-1 group-title="🔴RYTNASIONAL" tvg-logo="https://docdog.top/logo/countries/indonesia/foxsports.png" tvg-name="IDS: FOX SPORTS 1 VIP" ,IDS: FOX SPORTS 1 VIP
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34338
+#EXTINF:-1 group-title="🔴RYTNASIONAL" tvg-logo="https://docdog.top/logo/countries/indonesia/foxsports.png" tvg-name="IDS: FOX SPORTS 2 VIP" ,IDS: FOX SPORTS 2 VIP
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34339
+#EXTINF:-1 group-title="🔴RYTNASIONAL" tvg-logo="https://docdog.top/logo/countries/indonesia/foxsports.png" tvg-name="IDS: FOX SPORTS 3 VIP" ,IDS: FOX SPORTS 3 VIP
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34340
 
+==================================================================================================================================================
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" group-title="🔴RYTNASIONAL" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/yn67Cj9y/KOMPAS.png" ,KOMPAS TV
+http://royaltv.world:25461/live/S1038/9863/110.ts
+#EXTINF:-1 group-title="🔴RYTNASIONAL" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/Dfjt4MKN/INEWS.png",INEWS
+http://royaltv.world:25461/live/S1038/9863/99.ts
+#EXTINF:-1 tvg-id="RCTI [1].id" tvg-logo="https://i.ibb.co.com/8LSDx2WG/RCTI.png" group-title="🔴RYTNASIONAL",RCTI
+http://royaltv.world:25461/live/S1038/9863/100.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="🔴RYTNASIONAL",SCTV HD
+http://royaltv.world:25461/live/S1038/9863/101.ts
+#EXTINF:-1 tvg-id="TransTV-6" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/C5VjfGVQ/TRANSTV.png" group-title="🔴RYTNASIONAL",TRANSTV HD
+http://royaltv.world:25461/live/S1038/9863/102.ts
+#EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/fV6VG0Vt/TRANS7.png" group-title="🔴RYTNASIONAL",TRANS7 HD
+http://royaltv.world:25461/live/S1038/9863/103.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkVjq2ZN/INDOSIAR.png" group-title="🔴RYTNASIONAL", INDOSIAR HD
+http://royaltv.world:25461/live/S1038/9863/105.ts
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/1GWCbMRs/ANTV.png" group-title="🔴RYTNASIONAL" tvg-id="ANTV",  ANTV
+http://royaltv.world:25461/live/S1038/9863/106.ts
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="🔴RYTNASIONAL" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/7t2mbspy/TVONE.png",TV ONE
+http://royaltv.world:25461/live/S1038/9863/107.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qSMBW0D/METROTV.png" group-title="🔴RYTNASIONAL",METRO TV
+http://royaltv.world:25461/live/S1038/9863/108.ts
+#EXTINF:0 tvg-id="GTV HD [3].id" tvg-logo="https://i.ibb.co.com/39DJnjwt/GTV.png" group-title="🔴RYTNASIONAL", GTV
+http://royaltv.world:25461/live/S1038/9863/109.ts
+====================================================================================================================================================
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" group-title="🔴RYTNASIONAL" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/yn67Cj9y/KOMPAS.png" ,KOMPAS TV
+http://royaltv.world:25461/live/G5016/7865/110.ts
+#EXTINF:-1 group-title="🔴RYTNASIONAL" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/Dfjt4MKN/INEWS.png",INEWS
+http://royaltv.world:25461/live/G5016/7865/99.ts
+#EXTINF:-1 tvg-id="RCTI [1].id" tvg-logo="https://i.ibb.co.com/8LSDx2WG/RCTI.png" group-title="🔴RYTNASIONAL",RCTI
+http://royaltv.world:25461/live/G5016/7865/100.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="🔴RYTNASIONAL",SCTV HD
+http://royaltv.world:25461/live/G5016/7865/101.ts
+#EXTINF:-1 tvg-id="TransTV-6" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/C5VjfGVQ/TRANSTV.png" group-title="🔴RYTNASIONAL",TRANSTV HD
+http://royaltv.world:25461/live/G5016/7865/102.ts
+#EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/fV6VG0Vt/TRANS7.png" group-title="🔴RYTNASIONAL",TRANS7 HD
+http://royaltv.world:25461/live/G5016/7865/103.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkVjq2ZN/INDOSIAR.png" group-title="🔴RYTNASIONAL", INDOSIAR HD
+http://royaltv.world:25461/live/G5016/7865/105.ts
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/1GWCbMRs/ANTV.png" group-title="🔴RYTNASIONAL" tvg-id="ANTV",  ANTV
+http://royaltv.world:25461/live/G5016/7865/106.ts
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="🔴RYTNASIONAL" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/7t2mbspy/TVONE.png",TV ONE
+http://royaltv.world:25461/live/G5016/7865/107.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qSMBW0D/METROTV.png" group-title="🔴RYTNASIONAL",METRO TV
+http://royaltv.world:25461/live/G5016/7865/108.ts
+#EXTINF:0 tvg-id="GTV HD [3].id" tvg-logo="https://i.ibb.co.com/39DJnjwt/GTV.png" group-title="🔴RYTNASIONAL", GTV
+http://royaltv.world:25461/live/G5016/7865/109.ts
+==============================================================================================================================================================================
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",Kompas TV
+http://royaltv.world:25461/live/R8010/8009/110.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",inewtv
+http://royaltv.world:25461/live/R8010/8009/99.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",RCTI
+http://royaltv.world:25461/live/R8010/8009/100.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",SCTV
+http://royaltv.world:25461/live/R8010/8009/101.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",Trans TV
+http://royaltv.world:25461/live/R8010/8009/102.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",Trans 7
+http://royaltv.world:25461/live/R8010/8009/103.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",Indosiar
+http://royaltv.world:25461/live/R8010/8009/105.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",ANTV
+http://royaltv.world:25461/live/R8010/8009/106.ts
+#EXTINF:0 tvg-id="TVOne.uk" group-title="🔴Indonesia",TV One
+http://royaltv.world:25461/live/R8010/8009/107.ts
+#EXTINF:0 tvg-id="Metro.pl" group-title="🔴Indonesia",Metro TV
+http://royaltv.world:25461/live/R8010/8009/108.ts
+#EXTINF:0 tvg-id="gtv.il" group-title="🔴Indonesia",GTV
+http://royaltv.world:25461/live/R8010/8009/109.ts
+#EXTINF:0 tvg-id="TVRIworld.id" group-title="🔴Indonesia",TVRI
+http://royaltv.world:25461/live/R8010/8009/112.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",MD TV
+http://royaltv.world:25461/live/R8010/8009/114.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",Dhoho TV
+http://royaltv.world:25461/live/R8010/8009/120.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",JTV
+http://royaltv.world:25461/live/R8010/8009/121.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",TV9 NU
+http://royaltv.world:25461/live/R8010/8009/124.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",GARUDA TV
+http://royaltv.world:25461/live/R8010/8009/129.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",CNN Indonesia
+http://royaltv.world:25461/live/R8010/8009/139.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",Makkah TV
+http://royaltv.world:25461/live/R8010/8009/140.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",Nusantaratv
+http://royaltv.world:25461/live/R8010/8009/117.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",MNC TV
+http://royaltv.world:25461/live/R8010/8009/23531.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",Citra drama
+http://royaltv.world:25461/live/R8010/8009/23532.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",Moji TV
+http://royaltv.world:25461/live/R8010/8009/23533.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",DAAI TV
+http://royaltv.world:25461/live/R8010/8009/23534.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",Bandung TV
+http://royaltv.world:25461/live/R8010/8009/23535.ts
+#EXTINF:0 tvg-id="rtvint" group-title="🔴Indonesia",RTV
+http://royaltv.world:25461/live/R8010/8009/23536.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",My Cinema Europe
+http://royaltv.world:25461/live/R8010/8009/23537.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",MQTV
+http://royaltv.world:25461/live/R8010/8009/23538.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",PONTV
+http://royaltv.world:25461/live/R8010/8009/111.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",Kawanua TV
+http://royaltv.world:25461/live/R8010/8009/181.ts
+#EXTINF:0 tvg-id="ext" group-title="🔴Indonesia",CNBC Indonesia
+http://royaltv.world:25461/live/R8010/8009/88816.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="IDS: FOX NEWS VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/foxnews.png" group-title="🔵ASIA | INDONESIA VIP",IDS: FOX NEWS VIP
 http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34310
